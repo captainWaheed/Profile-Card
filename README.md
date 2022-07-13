@@ -2,6 +2,13 @@
 
 A static HTML page with interactive form and multiple files styled with CSS
 
+## Screenshot
+- Here the link of live Demo:
+      https://captainwaheed.github.io/Profile-Card/
+<p align= "center" >
+  <img src="./img/Profile-card.jpg" width= "350" align="center"/> 
+</p>
+
 
 ### Prerequisites
 
