@@ -28,11 +28,16 @@
     </div>
 </body>
 <footer>
-  <div class="attribution"> 
-    <p>
-        Copyright 2021 Ⓒ <span><a href="#">Waheed's Template</a> </span>. All
-        Rights Reserved.
-      </p>
-  </div>
+  <div class="attribution">
+          Copyright &copy;
+          <span id="copyright">
+            <script>
+              document
+                .getElementById("copyright")
+                .appendChild(document.createTextNode(new Date().getFullYear()));
+            </script>
+          </span>
+          Waheed's Template. All Rights Reserved.
+        </div>
 </footer>
 </html>
